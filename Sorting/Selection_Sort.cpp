@@ -16,8 +16,6 @@ void Selection_Sort(int arr[],int x){
         cout<<arr[k]<<""; 
     }
 }
- 
-//hi
 int main(){
     int x;
     cout<<"Enter the Length of Array:";
