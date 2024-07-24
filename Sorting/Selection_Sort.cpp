@@ -13,10 +13,10 @@ void Selection_Sort(int arr[],int x){
     }
 
     for(int k=0;k<x;k++){
-        cout<<arr[k]<<" ";
+        cout<<arr[k]<<""; 
     }
 }
-
+ 
 
 int main(){
     int x;
